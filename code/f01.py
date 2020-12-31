@@ -39,22 +39,36 @@ def info():
                     print(i, col, j)
     print(df)
 
-def data_gathering():
+def google_scraping():
     df= pd.read_csv(f'{path}/data/filtered_unis.csv')
+    unis= df['University']
     try:
-        if os.path.isdir(f'{path}/scraped_data'):
-            pass
-        else:
+        if not os.path.isdir(f'{path}/scraped_data'):
             os.mkdir(f'{path}/scraped_data')
     except FileNotFoundError:
         os.mkdir(f'{path}/scraped_data')
-    unis= df['University']
     for i in unis:
-        os.mkdir(f'{path}/scraped_data/{i}')
+        if not os.path.isdir(f'{path}/scraped_data/{i}'):
+            os.mkdir(f'{path}/scraped_data/{i}')
         url_data=[]
         for url in search(f'{i} pg syllabus', stop=10):
-            url_data.append(url)
-        pd.Series(url_data).to_csv(f'{path}/scraped_data/{i}/urls.csv', index= False)
+            if '.in' in url:
+                url_data.append(url)
+        pd.DataFrame(url_data, columns= ['urls']).to_csv(f'{path}/scraped_data/{i}/urls.csv', index= False)
+
+def data_gathering():
+    df= pd.read_csv(f'{path}/data/filtered_unis.csv')
+    unis= df['University']
+    for i in unis:
+        urls= pd.read_csv(f'{path}/scraped_data/{i}/urls.csv')['urls']
+        for index in range(len(urls)):
+            try:
+                for df in pd.read_html(urls[index]):
+                        df.columns= df.iloc[0]
+                        df= df.iloc[1:]
+                        df.to_csv(f'{path}/scraped_data/{i}/url{index}.csv', index= False)
+            except:
+                pass
 
 
 data_gathering()
