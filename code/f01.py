@@ -11,7 +11,7 @@ def data_input():
     df.columns= df.iloc[0]
     df= df.iloc[1:]
     df= df.drop('Sources', axis= 1)
-    df.to_csv(f'{path}/data/unis.csv')
+    df.to_csv(f'{path}/data/unis.csv', index=False)
 
 
 def filter():
@@ -59,6 +59,7 @@ def google_scraping():
 def data_gathering():
     df= pd.read_csv(f'{path}/data/filtered_unis.csv')
     unis= df['University']
+    csv_paths=[]
     for i in unis:
         urls= pd.read_csv(f'{path}/scraped_data/{i}/urls.csv')['urls']
         for index in range(len(urls)):
@@ -67,8 +68,12 @@ def data_gathering():
                         df.columns= df.iloc[0]
                         df= df.iloc[1:]
                         df.to_csv(f'{path}/scraped_data/{i}/url{index}.csv', index= False)
+                        csv_paths.append(f'{path}/scraped_data/{i}/url{index}.csv')
             except:
                 pass
+    pd.DataFrame(csv_paths, columns=['path']).to_csv(f'{path}/data/paths.csv', index= False)
 
-
+data_input()
+filter()
+google_scraping()
 data_gathering()
