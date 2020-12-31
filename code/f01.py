@@ -1,5 +1,7 @@
 import pandas as pd
 from selenium import webdriver
+import os
+from googlesearch import search
 
 path= 'C:/Users/User/Desktop/uni selection'
 
@@ -39,13 +41,20 @@ def info():
 
 def data_gathering():
     df= pd.read_csv(f'{path}/data/filtered_unis.csv')
+    try:
+        if os.path.isdir(f'{path}/scraped_data'):
+            pass
+        else:
+            os.mkdir(f'{path}/scraped_data')
+    except FileNotFoundError:
+        os.mkdir(f'{path}/scraped_data')
     unis= df['University']
     for i in unis:
-        browser= webdriver.Chrome(executable_path="C:/Users/User/PycharmProjects/comment_bot/executables/chromedriver.exe")
-        browser.get('http://www.google.com')
-        search = browser.find_element_by_name('q')
-        search.send_keys(f'pg syllabus in {i}')
-        search.send_keys(Keys.RETURN) # hit return after you enter search text
-        time.sleep(5)
-        current_url= browser.current_url
-        
+        os.mkdir(f'{path}/scraped_data/{i}')
+        url_data=[]
+        for url in search(f'{i} pg syllabus', stop=10):
+            url_data.append(url)
+        pd.Series(url_data).to_csv(f'{path}/scraped_data/{i}/urls.csv', index= False)
+
+
+data_gathering()
