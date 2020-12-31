@@ -71,9 +71,50 @@ def data_gathering():
                         csv_paths.append(f'{path}/scraped_data/{i}/url{index}.csv')
             except:
                 pass
-    pd.DataFrame(csv_paths, columns=['path']).to_csv(f'{path}/data/paths.csv', index= False)
+    check_str= ''
+    checked= []
+    for i in csv_paths:
+        if i!=check_str:
+            checked.append(i)
+        check_str= i
+    pd.DataFrame(checked, columns=['path']).to_csv(f'{path}/data/paths.csv', index= False)
 
-data_input()
-filter()
-google_scraping()
-data_gathering()
+def check():
+    s= pd.read_csv(f'{path}/data/paths.csv')
+    paths= []
+    dict0= {}
+    for i in s.path:
+        df= pd.read_csv(i)
+        for col in df.columns:
+            if 'syllabus' in col:
+                paths.append(i)
+            elif 'Syllabus' in col:
+                paths.append(i)
+    for path0 in paths:
+        df= pd.read_csv(path0)
+        dict0[path0]= list(df.columns)
+    subdict0= []
+    subdict1= []
+    subdict2= []
+    lens= [len(dict0[i]) for i in dict0.keys()]
+    for f in range(4):
+        print(f'{f}: {lens.count(f)}')
+    for key in dict0.keys():
+        if len(dict0[key])==1:
+            x=[key]
+            x+= dict0[key]
+            subdict0.append(x)
+        elif len(dict0[key])==2:
+            x=[key]
+            x+= dict0[key]
+            subdict1.append(x)
+        elif len(dict0[key])==3:
+            x=[key]
+            x+= dict0[key]
+            subdict2.append(x)
+    print(subdict0)
+    pd.DataFrame(subdict0, columns= ['path', 'col0']).to_csv(f'{path}/data/col1.csv', index=False)
+
+    pd.DataFrame(subdict1, columns= ['path', 'col0', 'col1']).to_csv(f'{path}/data/col2.csv', index=False)
+    pd.DataFrame(subdict2, columns= ['path', 'col0', 'col1', 'col2']).to_csv(f'{path}/data/col3.csv', index=False)
+check()
