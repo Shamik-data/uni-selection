@@ -16,18 +16,10 @@ def data_input():
 
 def filter():
     df= pd.read_csv(f'{path}/data/unis.csv')
-    subs= list(df['Specialization'])
-    temp= [subs.index(i) for i in subs if 'Arts' or 'Science' in i]
-    temp.sort()
-    o= 100202
-    indexes=[]
-    for i in temp:
-        if i!=o:
-            indexes.append(i)
-            o=i
-    print(f'{temp}\n{indexes}')
-    df= df.iloc[indexes]
+    
+    df['Specialization']= df[df['Specialization'].str.contains('Arts')]
     df= df.drop(['Type', 'Established'], axis= 1)
+    df= df.drop_duplicates()
     df.to_csv(f'{path}/data/filtered_unis.csv', index= False)
 
 def doesnt_work():
@@ -176,4 +168,11 @@ def fn01():
     pd.DataFrame(temp0, columns= ['university', 'URLs', 'paths', 'read']).to_csv(
         f'{path}/data/gathered_data.csv', index= False)
 
+
+data_input()
+filter()
+google_scraping()
+data_gathering()
+check()
+fn00()
 fn01()

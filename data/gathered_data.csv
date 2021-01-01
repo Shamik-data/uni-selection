@@ -10,11 +10,11 @@ Bankura University,http://www.bankurauniv.ac.in/Upload/Files/CBCS-HISTORY-PG-SYL
 Bankura University,https://www.bankurauniv.ac.in/Student_UGSyllabus.aspx,C:/Users/User/Desktop/uni selection/scraped_data/Bankura University/url3.csv,NO
 Bankura University,http://www.bankurauniv.ac.in/Upload/Files/Syllabus_Dept.%20of%20Education.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Bankura University/url4.csv,NO
 Bankura University,http://bankurauniv.ac.in/Upload/Files/Detailed-Syllabus_Bankura_Univ_01_02_2016.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Bankura University/url5.csv,NO
-Bankura University,http://www.bankurauniv.ac.in/Upload/Files/Syllabus_Dept%20of%20English.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Bankura University/url6.csv,NO
+Bankura University,http://www.bankurauniv.ac.in/Upload/Files/Syllabus_Dept%20of%20English.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Bankura University/url6.csv,YES
 Bankura University,"https://www.bankurauniv.ac.in/Upload/Files/syllabus%20for%20PG,%20CBCS%20PATTERN,%20BKU%20Revised_Philosophy.pdf",C:/Users/User/Desktop/uni selection/scraped_data/Bankura University/url7.csv,YES
 Bankura University,https://www.bankurauniv.ac.in/Acad_Courses.aspx,C:/Users/User/Desktop/uni selection/scraped_data/Bankura University/url8.csv,YES
 Bankura University,https://www.bankurauniv.ac.in/Student_Admission.aspx,C:/Users/User/Desktop/uni selection/scraped_data/Bankura University/url9.csv,YES
-Bankura University,https://www.bankurauniv.ac.in/PhdCourseWorkSyllabus.aspx,C:/Users/User/Desktop/uni selection/scraped_data/Bankura University/url10.csv,NO
+Bankura University,https://www.bankurauniv.ac.in/,C:/Users/User/Desktop/uni selection/scraped_data/Bankura University/url10.csv,NO
 Bidhan Chandra Krishi Viswavidyalaya,https://www.bckv.edu.in/bckv.php?page=f7177163c833dff4b38fc8d2872f1ec62c,C:/Users/User/Desktop/uni selection/scraped_data/Bidhan Chandra Krishi Viswavidyalaya/url1.csv,NO
 Bidhan Chandra Krishi Viswavidyalaya,https://bckv.edu.in/userfiles/file/3.%20PG%20Syllabus%20Entrance%20Exam.%202019.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Bidhan Chandra Krishi Viswavidyalaya/url2.csv,NO
 Bidhan Chandra Krishi Viswavidyalaya,https://www.bckv.edu.in/bckv.php?page=17e62166fc8586dfa4d1bc0e1742c08b2b,C:/Users/User/Desktop/uni selection/scraped_data/Bidhan Chandra Krishi Viswavidyalaya/url3.csv,NO
@@ -30,9 +30,15 @@ University of Burdwan,https://buruniv.ac.in/bunew/Template.php?page=Syllabus&sub
 University of Burdwan,http://buruniv.ac.in/CourseDetails.php?crs_code=MABENG&dep_code=&col_code=,C:/Users/User/Desktop/uni selection/scraped_data/University of Burdwan/url3.csv,NO
 University of Burdwan,https://www.buruniv.ac.in/Downloads/Syllabus/Syllabus_MAENG.pdf,C:/Users/User/Desktop/uni selection/scraped_data/University of Burdwan/url4.csv,NO
 University of Burdwan,http://www.buruniv.ac.in/Downloads/Syllabus/Syllabus_MAENG_OLD.pdf,C:/Users/User/Desktop/uni selection/scraped_data/University of Burdwan/url5.csv,NO
-University of Burdwan,http://dde.buruniv.ac.in/downloads/,C:/Users/User/Desktop/uni selection/scraped_data/University of Burdwan/url6.csv,NO
-University of Burdwan,http://www.buruniv.ac.in/CourseDetails.php?crs_code=MABENG&dep_code=DDE&col_code=,C:/Users/User/Desktop/uni selection/scraped_data/University of Burdwan/url7.csv,YES
+University of Burdwan,http://www.buruniv.ac.in/CourseDetails.php?crs_code=MABENG&dep_code=DDE&col_code=,C:/Users/User/Desktop/uni selection/scraped_data/University of Burdwan/url6.csv,NO
+University of Burdwan,https://www.buruniv.ac.in/Downloads/Syllabus/Syllabus_MAPOLSC.pdf,C:/Users/User/Desktop/uni selection/scraped_data/University of Burdwan/url7.csv,YES
 University of Burdwan,https://examstime.in/burdwan-university-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/University of Burdwan/url8.csv,NO
+University of Calcutta,https://www.caluniv.ac.in/CBCS-PG/cbcs-pg.html,C:/Users/User/Desktop/uni selection/scraped_data/University of Calcutta/url1.csv,NO
+University of Calcutta,https://www.caluniv.ac.in/academic/department/English/syllabus.pdf,C:/Users/User/Desktop/uni selection/scraped_data/University of Calcutta/url2.csv,YES
+University of Calcutta,https://www.caluniv.ac.in/syllabus/Syllabus.html,C:/Users/User/Desktop/uni selection/scraped_data/University of Calcutta/url3.csv,NO
+University of Calcutta,https://www.caluniv.ac.in/CBCS-PG/Zoology.pdf,C:/Users/User/Desktop/uni selection/scraped_data/University of Calcutta/url4.csv,YES
+University of Calcutta,https://www.caluniv.ac.in/CBCS/cbcs.html,C:/Users/User/Desktop/uni selection/scraped_data/University of Calcutta/url5.csv,YES
+University of Calcutta,https://examstime.in/calcutta-university-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/University of Calcutta/url6.csv,NO
 Cooch Behar Panchanan Barma University,https://www.cbpbu.ac.in/pg-programmes.php,C:/Users/User/Desktop/uni selection/scraped_data/Cooch Behar Panchanan Barma University/url1.csv,NO
 Cooch Behar Panchanan Barma University,https://cbpbu.ac.in/userfiles/file/PG%20Syllabus/EDUCATION%20(PG)%20SYLLABUS.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Cooch Behar Panchanan Barma University/url2.csv,NO
 Cooch Behar Panchanan Barma University,https://cbpbu.ac.in/userfiles/file/2019/syllabus/PG-Syllabus-2019-20.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Cooch Behar Panchanan Barma University/url3.csv,YES
@@ -43,31 +49,39 @@ Cooch Behar Panchanan Barma University,https://ubcn.in/cooch-behar-panchanan-bar
 Cooch Behar Panchanan Barma University,http://www.dinhatacollege.ac.in/cbpbu-syllabus.php,C:/Users/User/Desktop/uni selection/scraped_data/Cooch Behar Panchanan Barma University/url8.csv,NO
 Cooch Behar Panchanan Barma University,http://coochbeharcollege.org.in/doc/CBCS%20Mathematics.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Cooch Behar Panchanan Barma University/url9.csv,NO
 Diamond Harbour Women's University,http://www.dhwu.ac.in/syllabi.aspx,C:/Users/User/Desktop/uni selection/scraped_data/Diamond Harbour Women's University/url1.csv,NO
-Diamond Harbour Women's University,http://dhwu.ac.in/docs/course/Geography.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Diamond Harbour Women's University/url2.csv,NO
-Diamond Harbour Women's University,http://dhwu.ac.in/docs/course/MA_English_Syllabus_for_DHWU.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Diamond Harbour Women's University/url3.csv,NO
+Diamond Harbour Women's University,http://dhwu.ac.in/docs/course/MA_English_Syllabus_for_DHWU.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Diamond Harbour Women's University/url2.csv,NO
+Diamond Harbour Women's University,http://dhwu.ac.in/docs/course/Geography.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Diamond Harbour Women's University/url3.csv,NO
 Diamond Harbour Women's University,http://dhwu.ac.in/docs/course/Womens-Studies-syllabus.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Diamond Harbour Women's University/url4.csv,NO
-Diamond Harbour Women's University,http://www.dhwu.ac.in/docs/course/Education-syllabus.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Diamond Harbour Women's University/url5.csv,NO
-Diamond Harbour Women's University,http://dhwu.ac.in/docs/course/Physics.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Diamond Harbour Women's University/url6.csv,NO
+Diamond Harbour Women's University,http://dhwu.ac.in/docs/course/Physics.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Diamond Harbour Women's University/url5.csv,NO
+Diamond Harbour Women's University,http://www.dhwu.ac.in/docs/course/Education-syllabus.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Diamond Harbour Women's University/url6.csv,NO
 Diamond Harbour Women's University,http://dhwu.ac.in/docs/course/Mathematics.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Diamond Harbour Women's University/url7.csv,YES
-Diamond Harbour Women's University,https://examstime.in/diamond-harbour-womens-university-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/Diamond Harbour Women's University/url8.csv,NO
+Diamond Harbour Women's University,https://examstime.in/diamond-harbour-womens-university-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/Diamond Harbour Women's University/url8.csv,YES
 University of Gour Banga,https://www.ugb.ac.in/,C:/Users/User/Desktop/uni selection/scraped_data/University of Gour Banga/url1.csv,YES
 University of Gour Banga,https://examstime.in/gour-banga-university-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/University of Gour Banga/url2.csv,YES
 University of Gour Banga,https://examstime.in/gour-banga-university-courses-and-syllabus/#About-University,C:/Users/User/Desktop/uni selection/scraped_data/University of Gour Banga/url3.csv,YES
 University of Gour Banga,https://examstime.in/gour-banga-university-courses-and-syllabus/#Courses-Offered-Duration,C:/Users/User/Desktop/uni selection/scraped_data/University of Gour Banga/url4.csv,YES
-University of Gour Banga,https://examstime.in/gour-banga-university-courses-and-syllabus/#Download-Year-wise-Syllabus,C:/Users/User/Desktop/uni selection/scraped_data/University of Gour Banga/url5.csv,NO
+University of Gour Banga,https://examstime.in/gour-banga-university-courses-and-syllabus/#Download-Year-wise-Syllabus,C:/Users/User/Desktop/uni selection/scraped_data/University of Gour Banga/url5.csv,YES
+University of Gour Banga,https://www.collegeadmission.in/Universities/India/statewise/WestBengal/Gour_Banga_University/Notice2018/GBU_PG_Admission_2018.shtml,C:/Users/User/Desktop/uni selection/scraped_data/University of Gour Banga/url6.csv,NO
 Jadavpur University,http://www.jaduniv.edu.in/upload_files/dept_file/1470745751-1.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Jadavpur University/url1.csv,NO
 Jadavpur University,http://www.jaduniv.edu.in/upload_files/dept_file/1344329989-1.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Jadavpur University/url2.csv,NO
-Jadavpur University,http://www.jaduniv.edu.in/upload_files/dept_file/1283169609-2.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Jadavpur University/url3.csv,NO
-Jadavpur University,http://www.jaduniv.edu.in/upload_files/dept_file/1313490111-1.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Jadavpur University/url4.csv,YES
-Jadavpur University,http://www.jaduniv.edu.in/,C:/Users/User/Desktop/uni selection/scraped_data/Jadavpur University/url5.csv,NO
-Jadavpur University,http://www.jaduniv.edu.in/upload_files/dept_file/1362297618-1.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Jadavpur University/url6.csv,YES
-Jadavpur University,http://www.jaduniv.edu.in/view_department.php?deptid=57,C:/Users/User/Desktop/uni selection/scraped_data/Jadavpur University/url7.csv,YES
-Jadavpur University,https://examstime.in/jadavpur-university-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/Jadavpur University/url8.csv,NO
+Jadavpur University,http://www.jaduniv.edu.in/upload_files/dept_file/1313490111-1.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Jadavpur University/url3.csv,NO
+Jadavpur University,http://www.jaduniv.edu.in/upload_files/dept_file/1283169609-2.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Jadavpur University/url4.csv,YES
+Jadavpur University,https://examstime.in/jadavpur-university-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/Jadavpur University/url5.csv,NO
+Jadavpur University,https://www.indiastudycenter.com/Other/Syllabus/WB/JadavpurUniv/PG/MA-English/default.asp,C:/Users/User/Desktop/uni selection/scraped_data/Jadavpur University/url6.csv,YES
 University of Kalyani,https://dodl.klyuniv.ac.in/syllabi.html,C:/Users/User/Desktop/uni selection/scraped_data/University of Kalyani/url1.csv,YES
 University of Kalyani,https://examstime.in/kalyani-university-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/University of Kalyani/url2.csv,NO
+Kanyashree University,http://www.kanyashreeuniversity.in/syllabus,C:/Users/User/Desktop/uni selection/scraped_data/Kanyashree University/url1.csv,NO
+Kanyashree University,http://www.kanyashreeuniversity.in/,C:/Users/User/Desktop/uni selection/scraped_data/Kanyashree University/url2.csv,NO
+Kanyashree University,http://www.kanyashreeuniversity.in/merit-list,C:/Users/User/Desktop/uni selection/scraped_data/Kanyashree University/url3.csv,NO
+Kanyashree University,http://www.kanyashreeuniversity.in/notice,C:/Users/User/Desktop/uni selection/scraped_data/Kanyashree University/url4.csv,NO
+Kanyashree University,http://www.kanyashreeuniversity.in/administration,C:/Users/User/Desktop/uni selection/scraped_data/Kanyashree University/url5.csv,NO
+Kanyashree University,https://newsfromnadia.in/admission-to-kanyashree-university-begins-from-november-3/,C:/Users/User/Desktop/uni selection/scraped_data/Kanyashree University/url6.csv,YES
+Kanyashree University,https://www.webexam.in/kanyashree-k3-scholarship/,C:/Users/User/Desktop/uni selection/scraped_data/Kanyashree University/url7.csv,NO
+Kanyashree University,https://www.caluniv.ac.in/academic/department/English/syllabus.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Kanyashree University/url8.csv,NO
+Kanyashree University,http://dhwu.ac.in/,C:/Users/User/Desktop/uni selection/scraped_data/Kanyashree University/url9.csv,NO
 Kazi Nazrul University,https://www.knu.ac.in/,C:/Users/User/Desktop/uni selection/scraped_data/Kazi Nazrul University/url1.csv,NO
 Kazi Nazrul University,http://www.knu.ac.in/Upload/Files/1.1.2_Syllabus_chg_min.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Kazi Nazrul University/url2.csv,NO
-Kazi Nazrul University,https://www.knu.ac.in/view-syllabus-pdf/1602579998.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Kazi Nazrul University/url3.csv,YES
+Kazi Nazrul University,https://www.knu.ac.in/view-syllabus-pdf/1602572665.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Kazi Nazrul University/url3.csv,YES
 Kazi Nazrul University,https://examstime.in/kazi-nazrul-university-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/Kazi Nazrul University/url4.csv,YES
 Kazi Nazrul University,https://examstime.in/kazi-nazrul-university-courses-and-syllabus/#About-Kazi-Nazrul-University,C:/Users/User/Desktop/uni selection/scraped_data/Kazi Nazrul University/url5.csv,YES
 Kazi Nazrul University,https://examstime.in/kazi-nazrul-university-courses-and-syllabus/#Courses-List,C:/Users/User/Desktop/uni selection/scraped_data/Kazi Nazrul University/url6.csv,YES
@@ -75,7 +89,13 @@ Kazi Nazrul University,https://examstime.in/kazi-nazrul-university-courses-and-s
 Kazi Nazrul University,https://management.ind.in/forum/kazi-nazrul-university-pg-bengali-syllabus-343631.html,C:/Users/User/Desktop/uni selection/scraped_data/Kazi Nazrul University/url8.csv,YES
 Kazi Nazrul University,https://www.collegeadmission.in/Universities/India/statewise/WestBengal/Kazi_Nazrul_University/Notice2020/KNU_PG_Admission_2020.shtml,C:/Users/User/Desktop/uni selection/scraped_data/Kazi Nazrul University/url9.csv,NO
 Maulana Abul Kalam Azad University of Technology,https://makautwb.ac.in/page.php?id=195,C:/Users/User/Desktop/uni selection/scraped_data/Maulana Abul Kalam Azad University of Technology/url1.csv,YES
-Maulana Abul Kalam Azad University of Technology,https://makautwb.ac.in/list.php?c=Syllabus,C:/Users/User/Desktop/uni selection/scraped_data/Maulana Abul Kalam Azad University of Technology/url2.csv,NO
+Netaji Subhas Open University,http://www.wbnsou.ac.in/student_zone/courses/education/syllabus.shtml,C:/Users/User/Desktop/uni selection/scraped_data/Netaji Subhas Open University/url1.csv,NO
+Netaji Subhas Open University,http://www.wbnsou.ac.in/student_zone/courses/humanities/syllabus/pgp/arts/pgsyllabus_english21052010.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Netaji Subhas Open University/url2.csv,YES
+Netaji Subhas Open University,http://www.wbnsou.ac.in/naac/syllabus.shtml,C:/Users/User/Desktop/uni selection/scraped_data/Netaji Subhas Open University/url3.csv,NO
+Netaji Subhas Open University,http://www.wbnsou.ac.in/student_zone/courses/social_science/syllabus/PGP/arts/20151105_PG_Syllabus_History.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Netaji Subhas Open University/url4.csv,NO
+Netaji Subhas Open University,http://www.wbnsou.ac.in/student_zone/courses/social_science/syllabus/PGP/20191017_MA_HISTORY_Syllabus.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Netaji Subhas Open University/url5.csv,NO
+Netaji Subhas Open University,https://www.indiastudycenter.com/Other/Syllabus/WB/WBNSOU/PG/MA-History/default.asp,C:/Users/User/Desktop/uni selection/scraped_data/Netaji Subhas Open University/url6.csv,NO
+Netaji Subhas Open University,https://www.infinitecourses.com/Distance-Learning-Course.aspx?Course=M.A&CourseID=1758&UniversityID=118,C:/Users/User/Desktop/uni selection/scraped_data/Netaji Subhas Open University/url7.csv,NO
 University of North Bengal,https://examstime.in/north-bengal-university-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/University of North Bengal/url1.csv,NO
 University of North Bengal,https://www.nbu.ac.in/Downloads/Downloads.html,C:/Users/User/Desktop/uni selection/scraped_data/University of North Bengal/url2.csv,NO
 University of North Bengal,https://www.nbu.ac.in/Academics/Academics%20Faculties/Departments%20SC/Dept%20of%20Physics/Downloads/Syllmsc.pdf,C:/Users/User/Desktop/uni selection/scraped_data/University of North Bengal/url3.csv,NO
@@ -87,19 +107,19 @@ Presidency University,https://www.presiuniv.ac.in/web/DBS%20-%20final%20syllabus
 Presidency University,https://www.presiuniv.ac.in/web/syllabus/syllabus_DBS.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Presidency University/url2.csv,NO
 Presidency University,https://www.presiuniv.ac.in/web/Math-PG-Syllabus.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Presidency University/url3.csv,NO
 Presidency University,https://www.presiuniv.ac.in/web/syllabus/EnglishNewMAdetailedsyllabus.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Presidency University/url4.csv,NO
-Presidency University,https://www.presiuniv.ac.in/web/PG_newsyllabus.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Presidency University/url5.csv,NO
-Presidency University,https://www.presiuniv.ac.in/web/geography.php,C:/Users/User/Desktop/uni selection/scraped_data/Presidency University/url6.csv,NO
-Presidency University,https://www.presiuniv.ac.in/web/cbcssyllabus.php,C:/Users/User/Desktop/uni selection/scraped_data/Presidency University/url7.csv,NO
-Presidency University,https://presiuniv.ac.in/web/history_syllabus.php,C:/Users/User/Desktop/uni selection/scraped_data/Presidency University/url8.csv,NO
+Presidency University,https://presiuniv.ac.in/web/history_syllabus.php,C:/Users/User/Desktop/uni selection/scraped_data/Presidency University/url5.csv,NO
+Presidency University,https://www.presiuniv.ac.in/web/PG_newsyllabus.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Presidency University/url6.csv,NO
+Presidency University,https://www.presiuniv.ac.in/web/geography.php,C:/Users/User/Desktop/uni selection/scraped_data/Presidency University/url7.csv,NO
+Presidency University,https://www.presiuniv.ac.in/web/cbcssyllabus.php,C:/Users/User/Desktop/uni selection/scraped_data/Presidency University/url8.csv,NO
 Presidency University,https://presiuniv.ac.in/web/syllabus/pg_polsc.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Presidency University/url9.csv,NO
 Rabindra Bharati University,https://www.rbudde.in/syllabus.php,C:/Users/User/Desktop/uni selection/scraped_data/Rabindra Bharati University/url1.csv,NO
 Rabindra Bharati University,https://www.indiastudycenter.com/Other/Syllabus/WB/RBU/PG/default.asp,C:/Users/User/Desktop/uni selection/scraped_data/Rabindra Bharati University/url2.csv,YES
-Rabindra Bharati University,https://www.collegeadmission.in/Universities/India/statewise/WestBengal/Rabindra_Bharati_University/Notice2015/PG/ma_ben_syllabus_2015.shtml,C:/Users/User/Desktop/uni selection/scraped_data/Rabindra Bharati University/url3.csv,YES
+Rabindra Bharati University,https://www.collegeadmission.in/Universities/India/statewise/WestBengal/Rabindra_Bharati_University/Notice2015/PG/ma_his_syllabus_2015.shtml,C:/Users/User/Desktop/uni selection/scraped_data/Rabindra Bharati University/url3.csv,YES
 Rabindra Bharati University,https://examstime.in/rabindra-bharati-university-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/Rabindra Bharati University/url4.csv,YES
-Rabindra Bharati University,http://www.rbu.ac.in/home/page/32,C:/Users/User/Desktop/uni selection/scraped_data/Rabindra Bharati University/url5.csv,YES
-Rabindra Bharati University,http://www.rbu.ac.in/home/page/33,C:/Users/User/Desktop/uni selection/scraped_data/Rabindra Bharati University/url6.csv,YES
-Rabindra Bharati University,https://management.ind.in/forum/rabindra-bharati-university-english-ma-syllabus-168284.html,C:/Users/User/Desktop/uni selection/scraped_data/Rabindra Bharati University/url7.csv,YES
-Rabindra Bharati University,https://management.ind.in/forum/rabindra-bharati-university-syllabus-ma-english-130475.html,C:/Users/User/Desktop/uni selection/scraped_data/Rabindra Bharati University/url8.csv,NO
+Rabindra Bharati University,https://management.ind.in/forum/rabindra-bharati-university-english-ma-syllabus-168284.html,C:/Users/User/Desktop/uni selection/scraped_data/Rabindra Bharati University/url5.csv,YES
+Rabindra Bharati University,https://management.ind.in/forum/rabindra-bharati-university-syllabus-ma-english-130475.html,C:/Users/User/Desktop/uni selection/scraped_data/Rabindra Bharati University/url6.csv,YES
+Rabindra Bharati University,https://management.ind.in/forum/syllabus-m-english-rabindra-bharati-university-149154.html,C:/Users/User/Desktop/uni selection/scraped_data/Rabindra Bharati University/url7.csv,YES
+Rabindra Bharati University,https://management.ind.in/forum/rabindra-bharati-university-distance-education-ma-bengali-syllabus-142185.html,C:/Users/User/Desktop/uni selection/scraped_data/Rabindra Bharati University/url8.csv,NO
 Raiganj University,https://raiganjuniversity.ac.in/syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/Raiganj University/url1.csv,NO
 Raiganj University,http://raiganjuniversity.ac.in/wp-content/uploads/2017/07/Education-PG.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Raiganj University/url2.csv,NO
 Raiganj University,http://raiganjuniversity.ac.in/wp-content/uploads/2017/07/Geography-PG.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Raiganj University/url3.csv,NO
@@ -114,6 +134,16 @@ Senate of Serampore College (University),https://examstime.in/serampore-universi
 Senate of Serampore College (University),https://examstime.in/serampore-university-courses-and-syllabus/#Courses-Offered,C:/Users/User/Desktop/uni selection/scraped_data/Senate of Serampore College (University)/url6.csv,YES
 Senate of Serampore College (University),https://examstime.in/serampore-university-courses-and-syllabus/#Courses-Duration,C:/Users/User/Desktop/uni selection/scraped_data/Senate of Serampore College (University)/url7.csv,NO
 Senate of Serampore College (University),http://ctsn.edu.in/wp-content/uploads/2016/05/B.D.-Courses.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Senate of Serampore College (University)/url8.csv,NO
+Sidho Kanho Birsha University,https://skbuonline.in/syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/Sidho Kanho Birsha University/url1.csv,NO
+Sidho Kanho Birsha University,https://skbu.ac.in/images/uploads/201904111553401585216513-98136284.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Sidho Kanho Birsha University/url2.csv,NO
+Sidho Kanho Birsha University,https://skbu.ac.in/index/pageid/0c5fcgkgalfghl,C:/Users/User/Desktop/uni selection/scraped_data/Sidho Kanho Birsha University/url3.csv,NO
+Sidho Kanho Birsha University,https://skbu.ac.in/index/pageid/gb1f9f9fkj9g3k,C:/Users/User/Desktop/uni selection/scraped_data/Sidho Kanho Birsha University/url4.csv,NO
+Sidho Kanho Birsha University,https://skbu.ac.in/images/uploads/201904111427231585209420-99509750.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Sidho Kanho Birsha University/url5.csv,NO
+Sidho Kanho Birsha University,https://skbu.ac.in/index/pageid/6d9g7f9gfl8fjjjecgiebd0k4k8f7l0flj,C:/Users/User/Desktop/uni selection/scraped_data/Sidho Kanho Birsha University/url6.csv,YES
+Sidho Kanho Birsha University,https://examstime.in/sidho-kanho-birsha-university-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/Sidho Kanho Birsha University/url7.csv,YES
+Sidho Kanho Birsha University,https://examstime.in/sidho-kanho-birsha-university-courses-and-syllabus/#About-Sidho-Kanho-Birsha-University,C:/Users/User/Desktop/uni selection/scraped_data/Sidho Kanho Birsha University/url8.csv,YES
+Sidho Kanho Birsha University,https://examstime.in/sidho-kanho-birsha-university-courses-and-syllabus/#Courses-List,C:/Users/User/Desktop/uni selection/scraped_data/Sidho Kanho Birsha University/url9.csv,YES
+Sidho Kanho Birsha University,https://examstime.in/sidho-kanho-birsha-university-courses-and-syllabus/#Courses-Duration,C:/Users/User/Desktop/uni selection/scraped_data/Sidho Kanho Birsha University/url10.csv,NO
 The Sanskrit College and University,https://www.sanskritcollegeanduniversity.org.in/courses.php,C:/Users/User/Desktop/uni selection/scraped_data/The Sanskrit College and University/url1.csv,NO
 The Sanskrit College and University,http://sanskritcollegeanduniversity.org.in/download/SANSKRIT_MA.pdf,C:/Users/User/Desktop/uni selection/scraped_data/The Sanskrit College and University/url2.csv,YES
 The Sanskrit College and University,https://www.sanskritcollegeanduniversity.org.in/notice.php,C:/Users/User/Desktop/uni selection/scraped_data/The Sanskrit College and University/url3.csv,NO
@@ -122,21 +152,37 @@ The Sanskrit College and University,http://sansuniv.ac.in/p/syllabus,C:/Users/Us
 The Sanskrit College and University,http://sansuniv.ac.in/d/department-of-english-scu,C:/Users/User/Desktop/uni selection/scraped_data/The Sanskrit College and University/url6.csv,YES
 The Sanskrit College and University,https://examstime.in/the-sanskrit-college-and-university-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/The Sanskrit College and University/url7.csv,YES
 The Sanskrit College and University,https://www.collegeadmission.in/Sanskrit_College/Sanskrit_College.shtml,C:/Users/User/Desktop/uni selection/scraped_data/The Sanskrit College and University/url8.csv,NO
-Uttar Banga Krishi Vishwavidyalaya,https://www.ubkv.ac.in/wp-content/uploads/2014/03/PG-Syllabus_Forestry.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Uttar Banga Krishi Vishwavidyalaya/url1.csv,NO
+Uttar Banga Krishi Vishwavidyalaya,http://www.ubkv.ac.in/wp-content/uploads/2014/03/PG-Syllabus_Forestry.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Uttar Banga Krishi Vishwavidyalaya/url1.csv,NO
 Uttar Banga Krishi Vishwavidyalaya,https://www.ubkv.ac.in/msc-agriculture/,C:/Users/User/Desktop/uni selection/scraped_data/Uttar Banga Krishi Vishwavidyalaya/url2.csv,NO
 Uttar Banga Krishi Vishwavidyalaya,https://www.ubkv.ac.in/632-2/,C:/Users/User/Desktop/uni selection/scraped_data/Uttar Banga Krishi Vishwavidyalaya/url3.csv,NO
 Uttar Banga Krishi Vishwavidyalaya,https://www.ubkv.ac.in/msc-horticulture/,C:/Users/User/Desktop/uni selection/scraped_data/Uttar Banga Krishi Vishwavidyalaya/url4.csv,NO
 Uttar Banga Krishi Vishwavidyalaya,https://www.ubkv.ac.in/wp-content/uploads/2014/03/PG-Syllabus_VSC.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Uttar Banga Krishi Vishwavidyalaya/url5.csv,NO
 Uttar Banga Krishi Vishwavidyalaya,http://www.ubkv.ac.in/wp-content/uploads/Syllabus-for-Entrance-Test-for-Admission-to-M.Sc_2016-17.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Uttar Banga Krishi Vishwavidyalaya/url6.csv,NO
 Uttar Banga Krishi Vishwavidyalaya,http://www.ubkv.ac.in/wp-content/uploads/Horticulture_PG_Syllabus_2017-18.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Uttar Banga Krishi Vishwavidyalaya/url7.csv,YES
-Uttar Banga Krishi Vishwavidyalaya,https://examstime.in/ubkv-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/Uttar Banga Krishi Vishwavidyalaya/url8.csv,NO
-Uttar Banga Krishi Vishwavidyalaya,https://www.bckv.edu.in/bckv.php?page=f7177163c833dff4b38fc8d2872f1ec62c,C:/Users/User/Desktop/uni selection/scraped_data/Uttar Banga Krishi Vishwavidyalaya/url9.csv,NO
+Uttar Banga Krishi Vishwavidyalaya,http://www.ubkv.ac.in/wp-content/uploads/2014/03/PG-Syllabus_PPHT.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Uttar Banga Krishi Vishwavidyalaya/url8.csv,YES
+Uttar Banga Krishi Vishwavidyalaya,https://examstime.in/ubkv-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/Uttar Banga Krishi Vishwavidyalaya/url9.csv,NO
+Uttar Banga Krishi Vishwavidyalaya,https://www.bckv.edu.in/bckv.php?page=f7177163c833dff4b38fc8d2872f1ec62c,C:/Users/User/Desktop/uni selection/scraped_data/Uttar Banga Krishi Vishwavidyalaya/url10.csv,NO
+Vidyasagar University,http://apps.vidyasagar.ac.in/DownloadCenter/?cat=11,C:/Users/User/Desktop/uni selection/scraped_data/Vidyasagar University/url1.csv,YES
+Vidyasagar University,http://apps.vidyasagar.ac.in/DownloadCenter/?cat=16,C:/Users/User/Desktop/uni selection/scraped_data/Vidyasagar University/url2.csv,YES
+Vidyasagar University,http://www.vidyasagar.ac.in/downloads/?file=/PG_Syllabus_CBCS/bengali.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Vidyasagar University/url3.csv,YES
+Vidyasagar University,http://apps.vidyasagar.ac.in/DownloadCenter/?cat=5,C:/Users/User/Desktop/uni selection/scraped_data/Vidyasagar University/url4.csv,YES
+Vidyasagar University,http://dde.vidyasagar.ac.in/Syllabus/syllabus.html,C:/Users/User/Desktop/uni selection/scraped_data/Vidyasagar University/url5.csv,NO
+Vidyasagar University,http://www.vidyasagar.ac.in/downloads/?file=/PG_Syllabus_CBCS/english.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Vidyasagar University/url6.csv,NO
+Vidyasagar University,http://www.vidyasagar.ac.in/Downloads/ShowPdf.aspx?file=/pg_syllabus/geography.pdf,C:/Users/User/Desktop/uni selection/scraped_data/Vidyasagar University/url7.csv,YES
+Vidyasagar University,http://apps.vidyasagar.ac.in/DownloadCenter/?cat=21,C:/Users/User/Desktop/uni selection/scraped_data/Vidyasagar University/url8.csv,YES
+Vidyasagar University,https://examstime.in/vidyasagar-university-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/Vidyasagar University/url9.csv,NO
+West Bengal State University,https://wbsu.ac.in/pg-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal State University/url1.csv,NO
+West Bengal State University,https://wbsu.ac.in/pg-syllabus-under-cbcs-from-2019-2020/,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal State University/url2.csv,YES
+West Bengal State University,https://bgc.org.in/index.php?option=com_content&view=article&id=162&Itemid=0,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal State University/url3.csv,YES
+West Bengal State University,https://examstime.in/west-bengal-state-university-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal State University/url4.csv,NO
+West Bengal State University,http://www.ddmcadmission.in/motijheel-pg/pdf/prospectus-2017.pdf,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal State University/url5.csv,YES
+West Bengal State University,https://management.ind.in/forum/west-bengal-state-university-ma-english-syllabus-340556.html,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal State University/url6.csv,NO
 West Bengal University of Animal and Fishery Sciences,https://examstime.in/wbuafs-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal University of Animal and Fishery Sciences/url1.csv,YES
 West Bengal University of Animal and Fishery Sciences,https://examstime.in/wbuafs-courses-and-syllabus/#About-University,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal University of Animal and Fishery Sciences/url2.csv,YES
 West Bengal University of Animal and Fishery Sciences,https://examstime.in/wbuafs-courses-and-syllabus/#Courses-List,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal University of Animal and Fishery Sciences/url3.csv,YES
 West Bengal University of Animal and Fishery Sciences,https://examstime.in/wbuafs-courses-and-syllabus/#Courses-Duration,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal University of Animal and Fishery Sciences/url4.csv,NO
-West Bengal University of Health Sciences,https://wbuhs.ac.in/syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal University of Health Sciences/url1.csv,NO
-West Bengal University of Health Sciences,https://wbuhs.ac.in/,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal University of Health Sciences/url2.csv,YES
+West Bengal University of Health Sciences,https://wbuhs.ac.in/syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal University of Health Sciences/url1.csv,YES
+West Bengal University of Health Sciences,https://wbuhs.ac.in/academics/,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal University of Health Sciences/url2.csv,YES
 West Bengal University of Health Sciences,https://examstime.in/wbuhs-courses-and-syllabus/,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal University of Health Sciences/url3.csv,YES
 West Bengal University of Health Sciences,https://examstime.in/wbuhs-courses-and-syllabus/#About-WBUHS,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal University of Health Sciences/url4.csv,YES
 West Bengal University of Health Sciences,https://examstime.in/wbuhs-courses-and-syllabus/#Courses-List,C:/Users/User/Desktop/uni selection/scraped_data/West Bengal University of Health Sciences/url5.csv,YES
