@@ -165,14 +165,9 @@ def fn01():
                 temp0.append([uni, url, f'{path}/scraped_data/{uni}/url{i}.csv', x])
             except FileNotFoundError:
                 temp0.append([uni, 'NA', 'NA', x])
-    pd.DataFrame(temp0, columns= ['university', 'URLs', 'paths', 'read']).to_csv(
-        f'{path}/data/gathered_data.csv', index= False)
+    df2= pd.DataFrame(temp0, columns= ['university', 'URLs', 'paths', 'read'])
+    df2= df2.drop_duplicates()
+    df2.to_csv(f'{path}/data/gathered_data.csv', index= False)
 
 
-data_input()
-filter()
-google_scraping()
-data_gathering()
-check()
-fn00()
 fn01()
