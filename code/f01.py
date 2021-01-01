@@ -22,14 +22,6 @@ def filter():
     df= df.drop_duplicates()
     df.to_csv(f'{path}/data/filtered_unis.csv', index= False)
 
-def doesnt_work():
-    df= pd.read_html('https://www.google.com/search?q=bankura+university+pg+syllabus&oq=Bankura+University+pg+sy&aqs=chrome.0.0i457j69i57j0i22i30.4197j0j4&sourceid=chrome&ie=UTF-8')
-    for i in range(len(df)):
-        for col in df[i].columns:
-            for j in df[i][col]:
-                if 'economics' or'Economics' in j:
-                    print(i, col, j)
-    print(df)
 
 def google_scraping():
     df= pd.read_csv(f'{path}/data/filtered_unis.csv')
@@ -139,12 +131,28 @@ def fn00():
                             temp0.append([pth, 'NO'])
                     except TypeError:
                         pass
-        pd.DataFrame(paths1, columns= ['univesrsity', 'path']).to_csv(
+    pd.DataFrame(paths1, columns= ['univesrsity', 'path']).to_csv(
             f'{path}/data/path_data.csv', index= False)
-        df1= pd.DataFrame(temp0, columns= ['path', 'economics'])
-        df1['path']= df1['path'].map(paths0)
-        df1= df1.drop_duplicates()
-        df1.to_csv(f'{path}/data/eco_data.csv', index= False)
+    df1= pd.DataFrame(temp0, columns= ['path', 'economics'])
+    cols= []
+    df1['path']= df1['path'].map(paths0)
+    df1= df1.drop_duplicates()
+    for col0 in df1[df1['economics']=='NO']['path']:
+        for col1 in df1[df1['economics']=='YES']['path']:
+            if col0== col1:
+                cols+=[col0]
+    cols.sort()
+    print(cols)
+    df1= df1.reset_index()
+    x=[]
+    for row in range(len(df1)):
+        if df1.iloc[row]['economics']=='NO':
+            for col in cols:
+                if df1.iloc[row]['path']==col:
+                    x.append(row)
+    df1= df1.drop(x)
+    df1= df1.drop('index', axis=1)
+    df1.to_csv(f'{path}/data/eco_data.csv', index= False)
         
 def fn01():
     df0= df0= pd.read_csv(f'{path}/data/filtered_unis.csv')
@@ -164,10 +172,18 @@ def fn01():
             try:
                 temp0.append([uni, url, f'{path}/scraped_data/{uni}/url{i}.csv', x])
             except FileNotFoundError:
-                temp0.append([uni, 'NA', 'NA', x])
+                temp0.append([uni, '', '', x])
     df2= pd.DataFrame(temp0, columns= ['university', 'URLs', 'paths', 'read'])
     df2= df2.drop_duplicates()
     df2.to_csv(f'{path}/data/gathered_data.csv', index= False)
 
 
-fn01()
+
+def fn02():
+    df= pd.read_csv(f'{path}/data/gathered_data.csv')
+    for url in df[df['read']=='NO']['URLs']:
+        if 'pdf' in url:
+            print(url)
+
+
+fn00()
